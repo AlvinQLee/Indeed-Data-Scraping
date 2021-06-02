@@ -5,4 +5,4 @@ The goal of this project is to scrape data from Indeed's job searching website a
 ![](images/pic1.PNG)
 
 #### Sample output:
-![](images/pic3.PNG)
+![](images/img3.PNG)
